@@ -1,0 +1,15 @@
+# robots.txt for Sticks on 66
+# https://www.stickson66.com/robots.txt
+
+User-agent: *
+Allow: /
+
+# Disallow admin/internal pages (add as needed)
+# Disallow: /admin/
+# Disallow: /api/
+
+# Sitemap
+Sitemap: https://stickson66.com/sitemap.xml
+
+# Crawl-delay (optional, uncomment if needed)
+# Crawl-delay: 1
